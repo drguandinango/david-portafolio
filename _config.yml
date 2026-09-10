@@ -4,9 +4,14 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+# Mensaje navideño para reutilizar en otra temporada:
+# title: "Felices fiestas"
+# description: >
+#   Que la alegría y la paz te acompañen este año
+
+title: "Bienvenido"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Aquí comparto ideas, proyectos y experiencias.
 
 email: a-mail@mail.mail
 #blog logo
